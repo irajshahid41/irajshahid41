@@ -14,7 +14,7 @@ Currently sharpening my skills in Python, machine learning, and big data tools, 
 
 ## Connect with me:
 <p align="left">
-<a href="https:[linkedin.com/in/irajshahid](https://www.linkedin.com/in/iraj-shahid-069422249/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariamkhan0424" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iraj-shahid-069422249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariamkhan0424" height="30" width="40" /></a>
 <a href="irajshahid41@gmail.com" tarhet="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0XvFduY7sDBknSh_lJd80OzsdZ_LaHL2w-g&s" alt="irajshahid" height="30" width="40"></a>
 <a href="https://github.com/irajshahid41"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStEJOLvmB_jgIRwoTlBewFuAkjpttBAqOLdw&s" alt="irajshahid41" height="30" width="40"></a>
 </p>
